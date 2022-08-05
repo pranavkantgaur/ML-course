@@ -19,4 +19,7 @@
 ## To be read tommorow
 * https://stackoverflow.com/questions/44381450/doubts-regarding-batch-size-and-time-steps-in-rnn
 * https://keras.io/api/layers/recurrent_layers/simple_rnn/
+  * **Draw the RNN in example code**
 * Find better visualization of Keras models
+* Backpropogation
+* BPTT
