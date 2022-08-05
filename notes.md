@@ -18,8 +18,11 @@
  
 ## To be read tommorow
 * https://stackoverflow.com/questions/44381450/doubts-regarding-batch-size-and-time-steps-in-rnn
+  * Batch size: For efficient model training, like in feedforward.
+  * Time-steps: To index each data-point in the time-series
 * https://keras.io/api/layers/recurrent_layers/simple_rnn/
-  * **Draw the RNN in example code**
+  * **Draw the RNN in example code, refer https://keras.io/guides/working_with_rnns/**
+  * Whether number of time-steps in input series and number of RNN cells in a RNN layer unrelated?
 * Find better visualization of Keras models
 * Backpropogation
 * BPTT
